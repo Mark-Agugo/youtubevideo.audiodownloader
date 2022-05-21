@@ -21,4 +21,5 @@ os <br />
 pathlib <br />
 sys <br />
 re <br />
+termcolor <br />
 time
