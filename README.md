@@ -5,9 +5,9 @@
 # Installation
 
 ```bash
-git clone https://github.com/Mark-Agugo/youtubevideo.audiodownloader.git
+git clone https://github.com/markagugo/youtubevideoaudiodownloader.git
 
-cd youtubevideo.audiodownloader
+cd youtubevideoaudiodownloader
 
 pip3 install -r requirements.txt
 
